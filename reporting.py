@@ -12,7 +12,7 @@ def query_db(query):
     db.close()
 
     return data
-    print results
+    print (results)
 
 
 def most_read_articles():
